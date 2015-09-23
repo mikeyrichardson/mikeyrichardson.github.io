@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About Me
 permalink: /about/
 ---
 ![Teaching Multivariable Calculus]({{site.url}}/images/TeachingMVC.jpg)

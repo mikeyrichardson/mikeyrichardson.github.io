@@ -8,9 +8,9 @@ Since moving to San Francisco six years ago, I have taught high school math at L
 
 During the past year, I have independently studied many topics in data science in preparation for a career transition. Following is a summary of the topics I studied.
 
-* Andrew Ng's Machine Learning course
-* John Hopkin's Data Science Specialization
-* Michael Nielsen's Neural Network and Deep Learning book
-* Stanford's Mining Massive Datasets course
-
-Currently, I do most of my work in python and have used Kaggle competitions to gain experience with numpy, pandas, and scikit-learn. 
+* Logistic regression, neural networks, support vector machines, clustering, PCA, recommender systems, Matlab programming (Andrew Ng's Machine Learning course)
+* Exploratory data analysis, statistical inference, R programming (John Hopkin's Data Science Specialization)
+* Stochastic gradient descent and backpropagation in neural networks, activation functions, regularization, momentum, convolutional neural networks (Michael Nielsen's Neural Network and Deep Learning book)
+* Numpy, ipython, pandas, scikit-learn, decision trees, keras, lasagne, pylearn2 (Kaggle competitions)
+* MapReduce, hadoop, page rank, frequent itemsets, graphs (Stanford's Mining Massive Datasets course)
+* Pig, hive (O'Reilly books)

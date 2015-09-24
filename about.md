@@ -2,10 +2,9 @@
 layout: page
 permalink: /about/
 ---
-![Teaching Multivariable Calculus]({{site.url}}/images/TeachingMVC.jpg)
 Since moving to San Francisco six years ago, I have taught high school math at Los Altos High School. During that time, I introduced AP Computer Scince, Multivariable Calculus, and Linear Algebra to the school's curriculum. Teaching computer science allowed me to hone my programming skills and made me realize how much I enjoy the field. Now I have decided to merge my love of math with my love of programming and pursue a career in data science.
 
-During the past year, I have independently studied many topics in data science in preparation for a career transition. Following is a summary of the topics I studied.
+During the past year, I have independently studied the following topics in data science in preparation for a career transition.
 
 * Logistic regression, neural networks, support vector machines, clustering, PCA, recommender systems, Matlab programming (Andrew Ng's Machine Learning course)
 * Exploratory data analysis, statistical inference, R programming (John Hopkin's Data Science Specialization)

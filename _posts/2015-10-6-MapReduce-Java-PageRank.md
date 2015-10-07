@@ -2,7 +2,7 @@
 layout: post
 title: Using the Hadoop Java API to Find PageRank
 ---
-One of assignments in the Mining Massive Datasets course is to write a program to compute PageRank given a text file containing a subset of a web graph. ([Here](http://snap.stanford.edu/data/web-Google.txt.gz) is the data.) It didn't take long to write a Python script to efficiently calculate PageRank with Numpy arrays. But I wanted to try writing a program that could scale to graphs that were too big to be contained in the memory of one machine, so I also wrote the program using the Hadoop Java API.
+One of the assignments in the Mining Massive Datasets course is to write a program to compute PageRank given a text file containing a subset of a web graph. ([Here](http://snap.stanford.edu/data/web-Google.txt.gz) is the data.) It didn't take long to write a Python script to efficiently calculate PageRank with Numpy arrays. But I wanted to try writing a program that could scale to graphs that were too big to be contained in the memory of one machine, so I also wrote the program using the Hadoop Java API.
 
 After reading through half of the book *Pro Hadoop*, I decided that I wanted to try writing a Hadoop program using the Java API. I had used Hadoop streaming with Python and wanted to see how much harder it would be to do everything in Java. The PageRank problem seemed like a great opportunity.
 

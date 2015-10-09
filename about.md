@@ -2,13 +2,9 @@
 layout: page
 permalink: /about/
 ---
-Since moving to San Francisco six years ago, I have taught high school math at Los Altos High School. During that time, I introduced AP Computer Scince, Multivariable Calculus, and Linear Algebra to the school's curriculum. Teaching computer science allowed me to hone my programming skills and made me realize how much I enjoy the field. Now I have decided to merge my love of math with my love of programming and pursue a career in data science.
+I taught high school for 7 years and loved it. Here's a picture that my linear algebra students made for me during my last year teaching. Apparently taking secret pictures of me when I turned around was more interesting than my lecture (inconceivable).
+![Me teaching class on different days](images/TeachingMVC.jpg)
 
-During the past year, I have independently studied the following topics in data science in preparation for a career transition.
+Now I'm spending most of my time learning as much as I can about data science and looking forward to the next phase of my career.
 
-* Logistic regression, neural networks, support vector machines, clustering, PCA, recommender systems, Matlab programming (Andrew Ng's Machine Learning course)
-* Exploratory data analysis, statistical inference, R programming (John Hopkin's Data Science Specialization)
-* Stochastic gradient descent and backpropagation in neural networks, activation functions, regularization, momentum, convolutional neural networks (Michael Nielsen's Neural Network and Deep Learning book)
-* Numpy, ipython, pandas, scikit-learn, decision trees, keras, lasagne, pylearn2 (Kaggle competitions)
-* MapReduce, hadoop, page rank, frequent itemsets, graphs (Stanford's Mining Massive Datasets course)
-* Pig, hive (O'Reilly books)
+When I'm not studying, I'm walking around in the mountains, swimming, singing, or playing piano. And eating ice cream.
